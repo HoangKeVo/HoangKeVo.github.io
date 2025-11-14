@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: HOANG VO KE
 # Description of the Site
-description: Welcome to my corner! Cảm ơn vì đã ghé qua đây!
+description: Hành trình vạn dặm khởi đầu bằng một bước chân. (The journey of a thousand miles begins with one step.)
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -19,11 +19,11 @@ favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 # heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-heroimage: https://vietnamtour.com/gallery/image.raw?view=image&type=orig&id=1182
+heroimage: "/assets/images/ricefield.jpg"
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: vo36@purdue.edu
+email: "vo36@purdue.edu"
 facebook_username: 
 twitter_username: 
 instagram_username: 
@@ -39,16 +39,16 @@ spotify_username: /
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: Hoang Vo
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Hoang Vo Ke
 # URL for the Image of the Author
-author-image: https://upload.wikimedia.org/wikipedia/commons/8/85/John_Milnor.jpg
+author-image: "/assets/images/HoangVo.jpeg"
 # 60 Words About the Author
 author-about: My name is Võ Kế Hoàng (you can call me Hoang). I am a PhD in mathematics at Purdue University. My hobbies including playing and listening to music, drawing, reading and writing poems (the Vietnamese ones of course), and playing with Linux. 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: 
 
 # SASS
 sass:
